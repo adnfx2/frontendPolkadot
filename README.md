@@ -5,4 +5,4 @@ A frontend app capable of querying blocks from the following chains: Polkadot, K
 ## Demo
 [Live preview :rocket:](https://adnfx2.github.io/frontendPolkadot/)
 
-[PolkaHack Image](/src/polkaPreview.png)
+![PolkaHack Image](/assets/polkaPreview.png)
