@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.fc54f456.chunk.css",
+    "main.js": "./static/js/main.b227139b.chunk.js",
+    "main.js.map": "./static/js/main.b227139b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.bcb55da4.js",
+    "runtime-main.js.map": "./static/js/runtime-main.bcb55da4.js.map",
+    "static/css/2.d34346ea.chunk.css": "./static/css/2.d34346ea.chunk.css",
+    "static/js/2.3be8eae5.chunk.js": "./static/js/2.3be8eae5.chunk.js",
+    "static/js/2.3be8eae5.chunk.js.map": "./static/js/2.3be8eae5.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.6dfec4d128249cf71197ade6b836e9a5.js": "./precache-manifest.6dfec4d128249cf71197ade6b836e9a5.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "./static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.fc54f456.chunk.css.map": "./static/css/main.fc54f456.chunk.css.map",
+    "static/js/2.3be8eae5.chunk.js.LICENSE.txt": "./static/js/2.3be8eae5.chunk.js.LICENSE.txt",
+    "static/media/helloWorldPolkadot.png": "./static/media/helloWorldPolkadot.8abe3818.png",
+    "static/media/noData.svg": "./static/media/noData.1d10f376.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcb55da4.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.3be8eae5.chunk.js",
+    "static/css/main.fc54f456.chunk.css",
+    "static/js/main.b227139b.chunk.js"
+  ]
+}
